@@ -1,1 +1,1 @@
-Sublime Text3 package for folder open plugin.
+Sublime Text3 package for undo column line plugin.
